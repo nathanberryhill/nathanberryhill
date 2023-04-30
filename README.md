@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nathanberryhill
 - 👀 I’m interested in all things Mathematics (except Topology lol), Data Analysis, and Health Informatics
-- 📗 I’m currently learning PowerShell and Healthcare Administration
-- 🧮 I’m looking to collaborate on the Collatz Conjecture or cracking RSA-260
+- 📗 I’m currently learning PowerShell, PowerApps, and other tools
+- 🧮 I’m looking to collaborate on the Collatz Conjecture or cracking RSA numbers
 - 📫 How to reach me: Twitter/Instagram @nathanberryhill or Email me at the email on my profile
 
 <!---
